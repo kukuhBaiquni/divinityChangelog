@@ -1,0 +1,5 @@
+new entry "LYNNBOOK_Thrill"
+type "Object"
+using "_Skillbooks"
+data "Act part" "1"
+data "Requirements" "Level 1"
