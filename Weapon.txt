@@ -11357,4 +11357,3 @@ data "PoisonResistanceBoost" "4"
 data "Movement" "2"
 data "Skills" "Tornado_Air"
 data "Requirements" "Loremaster 4"
-

@@ -90,4 +90,3 @@ boost "Small"
 new boostgroup
 boost "Legendary"
 boost "Legendary"
-
